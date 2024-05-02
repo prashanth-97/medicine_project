@@ -1,2 +1,1 @@
-# medicine_project
-medicine_project
+spring_project
